@@ -4,7 +4,7 @@ Matsue.rb's official logo.
 
 ## Usage
 
-TODO
+Open, edit [](monotone.ai) or [](duotone.ai) and export.
 
 ## License
 
